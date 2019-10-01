@@ -1,2 +1,2 @@
 web: heroku-php-apache2 www/
-worker: php bin/worker.php
+worker: python bin/worker.py
